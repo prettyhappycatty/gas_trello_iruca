@@ -3,7 +3,6 @@ const TRELLO_API_URL = 'https://api.trello.com/';
 const TRELLO_USER_ID = scriptProp.TRELLO_USER_ID;
 const TRELLO_KEY = scriptProp.TRELLO_API_KEY;
 const TRELLO_TOKEN = scriptProp.TRELLO_TOKEN;
-const TRELLO_LIST_TODO_ID = scriptProp.TRELLO_LIST_ID_TODO;
 const TRELLO_LIST_COMP_ID = scriptProp.TRELLO_LIST_ID_COMPLETED;
 const TRELLO_BOARD_ID = scriptProp.TRELLO_BOARD_ID
 const TRELLO_TAG_IRUCA_COMPLETED_ID = scriptProp.TRELLO_TAG_IRUCA_COMPLETED_ID

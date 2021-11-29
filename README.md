@@ -2,7 +2,6 @@
 - trelloのかんばんボードで、「勤怠報告（出勤）」「勤怠報告（退勤）」が「完了」リストに移動された場合に、irucaの出勤・退勤を更新する
 
 # scriptの環境変数
-
 - TRELLO_API_KEY
 - TRELLO_TOKEN
 - TRELLO_BOARD_ID
